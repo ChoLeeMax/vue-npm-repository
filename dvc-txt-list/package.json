@@ -1,0 +1,12 @@
+{
+  "name": "dcv-txt-list",
+  "version": "1.1.1",
+  "description": "自适应列表组件",
+  "main": "widge/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lichao",
+  "license": "ISC"
+}
+
