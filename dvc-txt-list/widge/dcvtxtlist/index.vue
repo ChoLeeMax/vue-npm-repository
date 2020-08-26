@@ -1,6 +1,6 @@
 <template>
   <div class="dcv-warp">
-    <div class="dcv-list">
+    <div class="dcv-list" :style="{'font-size':config.fontSize+'px'}">
       <div class="list-header" :style="{'background':rowColors[0]}">
         <div class="list-item" v-for="head in information.data" :key="head.name">{{head.name}}</div>
       </div>

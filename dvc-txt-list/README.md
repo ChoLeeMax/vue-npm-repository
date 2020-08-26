@@ -7,7 +7,7 @@
  * @LastEditTime: 2020-08-26 14:20:56
 -->
 
-# 工程介绍
+## 工程介绍
 
 修改 package 配置文件组件名称(name)、描述(description)、版本(version)、入口文件（main）；
 
@@ -24,12 +24,12 @@
 修改根目录下的工程配置文件,调整组件名称(name)、描述(description)、版本(version)、入口文件（main）字段；
 
 ## 发布组件
-
+在组件dvc-txt-list目录执行
 ```js
 npm publish
 ```
 
-# 组件使用
+## 组件使用
 
 - 安装组件
 
@@ -39,7 +39,7 @@ npm publish
 
 - 使用组件
 
-``
+```
 <template>
   <div class="dcv-txt-list">
     <div class="module" data-theme="default-theme">
@@ -72,8 +72,8 @@ export default {
     return {
       testData: {
         configuration: {
-          fontSize: 16,
-          themeColor: "#2196f3",
+          fontSize: 16,//列表默认字体
+          themeColor: "#2196f3",//列表默认背景颜色
         },
         information: {
           data: [
@@ -96,7 +96,7 @@ export default {
                 },
                 {
                   name: "",
-                  value: "44",
+                  value: "4",
                 },
                 {
                   name: "",
@@ -104,7 +104,7 @@ export default {
                 },
                 {
                   name: "",
-                  value: "46",
+                  value: "6",
                 },
               ],
             },
@@ -132,11 +132,11 @@ export default {
                 },
                 {
                   name: "",
-                  value: "45",
+                  value: "抚顺南站",
                 },
                 {
                   name: "",
-                  value: "5",
+                  value: "辽宁大学",
                 },
               ],
             },
@@ -144,22 +144,22 @@ export default {
               name: "人数",
               type: "",
               total: "",
-              unit: "人",
+              unit: "人",//此列的单位
               children: [
                 {
-                  name: "人数",
+                  name: "",
                   value: "342",
                 },
                 {
-                  name: "人数",
+                  name: "",
                   value: "4554",
                 },
                 {
-                  name: "人数",
+                  name: "",
                   value: "12565",
                 },
                 {
-                  name: "人数",
+                  name: "",
                   value: "77684",
                 },
                 {
