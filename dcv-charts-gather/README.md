@@ -14,10 +14,6 @@
 
 修改根目录下的工程配置文件,调整组件名称(name)、描述(description)、版本(version)、入口文件（main）字段；
 
-## 组件截图
-
-![image](https://github.com/ChoLeeMax/vue-npm-repository/tree/master/images/gather.png)
-
 ## 发布组件
 在组件dcv-charts-gather目录执行
 ```js
