@@ -24,7 +24,7 @@
 修改根目录下的工程配置文件,调整组件名称(name)、描述(description)、版本(version)、入口文件（main）字段；
 
 ## 发布组件
-在组件dvc-txt-list目录执行
+在组件dcv-txt-list目录执行
 ```js
 npm publish
 ```
@@ -34,7 +34,7 @@ npm publish
 - 安装组件
 
 ```js
-    npm i dvc-txt-list
+    npm i dcv-txt-list
 ```
 
 - 使用组件
