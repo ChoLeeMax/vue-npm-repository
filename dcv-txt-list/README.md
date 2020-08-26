@@ -79,7 +79,6 @@ export default {
           data: [
             {
               name: "序号",
-              total: "",
               unit: "",
               children: [
                 {
@@ -110,8 +109,6 @@ export default {
             },
             {
               name: "区域名称",
-              type: "",
-              total: "",
               unit: "",
               children: [
                 {
@@ -142,8 +139,6 @@ export default {
             },
             {
               name: "人数",
-              type: "",
-              total: "",
               unit: "人",//此列的单位
               children: [
                 {
