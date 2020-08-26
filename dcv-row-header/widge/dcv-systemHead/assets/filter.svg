@@ -1,0 +1,26 @@
+<svg height="100%" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  <!-- 蓝色 -->
+    <filter id="change">
+      <feColorMatrix
+        type="matrix"
+        values="
+            0 0 0 0 0.024
+            0 0 0 0 0.144
+            0 0 0 0 1
+            0 0 0 1 0"
+      />
+    </filter>
+    <!-- 白色 -->
+    <filter id="white">
+      <feColorMatrix
+        type="matrix"
+        values="
+            0 0 0 0 1
+            0 0 0 0 1
+            0 0 0 0 1
+            0 0 0 1 0"
+      />
+    </filter>
+  </defs>
+</svg>

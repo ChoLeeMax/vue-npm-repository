@@ -1,0 +1,11 @@
+{
+  "name": "dcv-colum-steps",
+  "version": "1.1.0",
+  "description": "事件处置流程组件",
+  "main": "widge/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lichao",
+  "license": "ISC"
+}

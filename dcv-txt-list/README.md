@@ -54,7 +54,7 @@ npm publish
 </template>
 
 <script>
-// 使用 npm i dvc-txt-list 命令安装引用
+// 使用 npm i dcv-txt-list 命令安装引用
 // import dcvtxtlist from 'dcv-txt-list';
 //绝对路径引用，需拷贝组件文佳至本地
 // import dcvtxtlist from "./dcv-txt-list/widge/index.js";
