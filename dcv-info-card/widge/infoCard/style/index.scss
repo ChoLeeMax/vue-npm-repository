@@ -1,0 +1,21 @@
+/**
+ * @author 作者
+ * @version 版本
+ * @description 功能描述
+ * [注：其中TODO为组件需要实现的内容]
+ */
+
+ $paddings:10px;
+ .card-status{
+    position: absolute;
+    right:  $paddings;
+    top:  $paddings;
+ }
+ .card-bottom {
+    // TODO 组件样式定义
+    border-top: 1px solid #333;
+    padding:  $paddings;
+    .card-part{
+        float: right;
+    }
+}

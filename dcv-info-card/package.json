@@ -1,0 +1,14 @@
+{
+  "name": "dcv-info-card",
+  "version": "1.0.4",
+  "description": "监测预警对象卡片信息组件",
+  "main": "widge/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.3.13"
+  },
+  "author": "lichao",
+  "license": "ISC"
+}

@@ -54,6 +54,7 @@ npm publish
 </template>
 
 <script>
+// TODO 引用组件
 // 使用 npm i dcv-txt-list 命令安装引用
 // import dcvtxtlist from 'dcv-txt-list';
 //绝对路径引用，需拷贝组件文佳至本地
