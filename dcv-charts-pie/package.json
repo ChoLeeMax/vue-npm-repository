@@ -1,5 +1,5 @@
 {
-  "name": "dcv-pie-chart",
+  "name": "dcv-charts-pie",
   "version": "1.1.1",
   "description": "基于vue的echarts饼状体",
   "main": "widge/index.js",

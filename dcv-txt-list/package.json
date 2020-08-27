@@ -1,6 +1,6 @@
 {
   "name": "dcv-txt-list",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "自适应列表组件",
   "main": "widge/index.js",
   "scripts": {
